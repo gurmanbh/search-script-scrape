@@ -1,0 +1,4 @@
+node_modules/
+*node_scripts/3.js
+*node_scripts/4.js
+*node_scripts/file.json
